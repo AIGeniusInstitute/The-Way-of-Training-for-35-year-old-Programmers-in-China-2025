@@ -12,6 +12,17 @@ AI天才研究院 编著
 AI Genius Institute, 2025
 
 
+# 慷慨捐赠：AI天才研究院
+
+> 您的慷慨捐赠，将帮助我们持续为读者提供高质量的内容。
+> 
+> Donate to AI Genius Institute Generously，and we will continue to provide high-quality content for readers.
+
+
+| 微信                                                    | 支付宝                                                  |
+| ------------------------------------------------------- | ------------------------------------------------------- |
+| <img src="static/wechat.jpeg" width="300" height="350"> | <img src="static/alipay.jpeg" width="300" height="350"> |
+
 ---
 
 
@@ -283,14 +294,3 @@ AI天才研究院 编著
 
 # 参考文献
 
-
----
-
-# 捐赠：AI天才研究院
-
-> Donate to AI Genius Institute:
-
-
-| 微信                                                    | 支付宝                                                  |
-| ------------------------------------------------------- | ------------------------------------------------------- |
-| <img src="static/wechat.jpeg" width="300" height="350"> | <img src="static/alipay.jpeg" width="300" height="350"> |
