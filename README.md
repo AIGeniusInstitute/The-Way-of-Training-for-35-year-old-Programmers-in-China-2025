@@ -2,13 +2,12 @@
 
 > The-Way-of-Training-for-35-year-old-Programmers-in-China-2025
 
-中国35岁程序员在2025年如何提升自我或应对职场挑战的指南。
+> 中国35岁程序员在2025年如何提升自我或应对职场挑战的指南。
 在中国科技行业，35岁常被视为程序员职业生涯的一个转折点，本书探讨了相关的职业发展策略。
 
 
 AI天才研究院 编著
 
-<img src="static/ai_genius_institute.jpeg" width="100%" height="auto">
 
 AI Genius Institute, 2025
 
@@ -17,6 +16,10 @@ AI Genius Institute, 2025
 
 
 # 《中国 35 岁程序员修炼之道 2025 》 
+
+
+<img src="static/cover.png" width="100%" height="auto">
+
 
 The-Way-of-Training-for-35-year-old-Programmers-in-China-2025
 
